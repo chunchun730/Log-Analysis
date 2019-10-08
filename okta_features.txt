@@ -1,0 +1,19 @@
+username:
+    actors{}.login
+    user_email
+    src_user_email
+    src_user
+uder:
+    src_ip
+city:
+    src_city
+    user_work_city
+event:
+    action.objectType
+    eventtype
+    eventId
+    action
+meta:
+    published
+    agent
+    message
